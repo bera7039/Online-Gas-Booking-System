@@ -89,17 +89,5 @@ How to implement basic CRUD operations (Create, Read, Update, Delete)
 
 How to build a real-world simulation of a booking system
 
- Future Enhancements
+ 
 
-Add Admin Panel (to manage cylinder price, agents, revenue reports)
-
-Add Delivery Agent Module (assign, out-for-delivery, OTP confirmation)
-
-Add Graphical User Interface (GUI) with Tkinter or Flask (web version)
-
-
-
-
-👉 Do you want me to make this README short and beginner-friendly (like for students) or professional-style (like a GitHub portfolio project)?
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
